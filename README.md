@@ -1,22 +1,23 @@
-# (Titlul)
-(Scurtă descriere)
+#  Sound Shifter
+Programul are rolul de a modifica vocea umana, prin captarea sunetul inregistrat de catre un microfon si transformarea semnalul prin diferite efecte audio (Reverb, Saturator, Modulatie etc)
 
 ## (Instalare)
-...
+Pentru realizarea acestui program, am avut nevoie de cateva plugin-uri externe, utilizate in mod uzual in domeniul audio pentru editarea vocii. De asemenea, am realizat si un control de la tastatura (utilizand codul ASCII), pentru folosirea acestor efecte doar prin apasarea unor taste.
 
 ## (Utilizare)
-...
+Fiecare efect are un indicativ (de exemplu pentru Xvox SFX este EF1), iar gestionarea acestora se poate face utilizand tastele 1-5.
+Activarea/Dezactivarea microfonului se poate realiza cu ajutorul tastei M.
 
 ## (Istoric)
 
-(13.05) ...
+(15.05) Prima implementare in MAX a unui efect (pentru test) 
 
-(3.06) ...
+(29.05) Implemenarea aproape finala a proiectului, ramanand de realizat partea finala si documentatia
 
-(X.06) ...
+(17.06) Forma finala
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=uyzY_ZP54pA
 
 # Dezvoltarea proiectului
 
