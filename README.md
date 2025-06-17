@@ -20,6 +20,7 @@ Activarea/Dezactivarea microfonului se poate realiza cu ajutorul tastei M.
 https://www.youtube.com/watch?v=uyzY_ZP54pA
 
 # Dezvoltarea proiectului
+![program](https://github.com/user-attachments/assets/1df8bd85-6664-49dc-9071-89c5bf321c73)
 
 Pentru început:
 
